@@ -773,7 +773,7 @@ home.html
                     <a href="https://www.instagram.com" target="_blank">Instagram</a> |
                     <a href="https://www.twitter.com" target="_blank">Twitter</a>
                 </div>
-                <p>&copy; 2024 Velvet Bistro. All Rights Reserved - DEVELOPED BY MOHAMMAD SUHAEL</p>
+                <p>&copy; 2024 Velvet Bistro. All Rights Reserved - DEVELOPED BY SIBHIRAAJ R</p>
             </div>
         </footer>
     </body>
